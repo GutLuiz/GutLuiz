@@ -7,7 +7,7 @@ Desde os meus 17 anos, tenho me dedicado aos estudos e agora estou determinado a
 
 Atualmente, estou cursando Ciência da Computação para aprimorar meu conhecimento e habilidades na área de tecnologia.
 
-* 🌍  Moro no Pará, Brasil
+* 🌍  Moro no Pará, Brasil 
 * ✉️  Você pode me contatar [luizgut2016@gmail.com](mailto:luizgut2016@gmail.com)
 * 🚀  Estou em busca de conhecimentos na área de back-end para aprimorar minhas habilidades e contribuir de forma significativa no desenvolvimento de sistemas e aplicações web.
 * 🧠  Atualmente, estou dedicando meu tempo aos estudos de Python e banco de dados SQL!
