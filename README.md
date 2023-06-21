@@ -16,11 +16,12 @@ Atualmente, estou cursando Ciência da Computação para aprimorar meu conhecime
 
 ### Habilidades:
 
-<p >
+
    <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
-   <img src= 
+   <img src= "servidor-sql (1).png"  alt="Ícone Banco de Dados SQL" width="35" height="35">
+   
     
-</p>
+
 
 ### Socials
 
