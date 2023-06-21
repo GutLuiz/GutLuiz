@@ -18,7 +18,9 @@ Atualmente, estou cursando Ciência da Computação para aprimorar meu conhecime
 
 <p >
    <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
-   <img src="![image](https://github.com/GutLuiz/GutLuiz/assets/137111588/c0efe019-256f-4d41-92f4-e7ec5a0b3f92)
+   <img src="![simbolo-de-formato-de-arquivo-sql](https://github.com/GutLuiz/GutLuiz/assets/137111588/377b99ce-ceaa-4a38-b06a-aff3581b3b27)"/>
+
+
 "/>
 </p>
 
