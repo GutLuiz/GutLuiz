@@ -22,7 +22,7 @@ Atualmente, estou cursando Ciência da Computação para aprimorar meu conhecime
    <img src= "html-5.png"  alt="Ícone html" width="50" height="50">
    <img src= "css-3.png"  alt="Ícone css" width="50" height="50">
 
-### Colaboracão
+### Colaboracão:
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=GutLuiz&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/gui-loko)
 
 
