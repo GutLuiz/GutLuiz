@@ -3,7 +3,7 @@ OLA! 👋 Meu nome é Gustavo
 
 Desenvolvedor Back End
 -----------------------------
-Desde os meus 17 anos, tenho me dedicado aos estudos e agora estou determinado(a) a me especializar na área de back-end.
+Desde os meus 17 anos, tenho me dedicado aos estudos e agora estou determinado a me especializar na área de back-end.
 
 Atualmente, estou cursando Ciência da Computação para aprimorar meu conhecimento e habilidades na área de tecnologia.
 
