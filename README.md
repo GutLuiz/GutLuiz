@@ -21,7 +21,8 @@ Atualmente, estou cursando Ciência da Computação para aprimorar meu conhecime
    <img src= "servidor-sql (1).png"  alt="Ícone Banco de Dados SQL" width="50" height="50" title= "SQL">
    <img src= "html-5.png"  alt="Ícone html" width="50" height="50" title = "HTML">
    <img src= "css-3.png"  alt="Ícone css" width="50" height="50" title ="CSS">
-
+    <img src= " <img src= "css-3.png"  alt="Ícone css" width="50" height="50" title ="CSS">" 
+   
 </div>
   
 
