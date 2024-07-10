@@ -10,7 +10,7 @@ Atualmente, estou cursando Ciência da Computação para aprimorar meu conhecime
 * 🌍  Moro no Pará, Brasil 
 * ✉️  Você pode me contatar [Gustavolino.d3v@gmail.com](mailto:Gustavolino.d3v@gmail.com)
 * 🚀  Estou em busca de conhecimentos na área de back-end para aprimorar minhas habilidades e contribuir de forma significativa no desenvolvimento de sistemas e aplicações web.
-* 🧠  Atualmente, estou dedicando meu tempo aos estudos de java!
+* 🧠  Atualmente, estou dedicando meu tempo aos estudos de C# e Postgres!
 * 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 * ⚡  Amo esportes e meu preferido é Futebol!
 
