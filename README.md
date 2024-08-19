@@ -17,11 +17,10 @@ Atualmente, estou cursando Ciência da Computação para aprimorar meu conhecime
 ### Habilidades:
 
 <div>
-   <img src="python.png"  alt="Ícone python" width="50" height="50" title= "PYTHON">
+   <img src="post.webp"  alt="Ícone postgres" width="50" height="50" title= "POSTGRESQL">
    <img src= "servidor-sql (1).png"  alt="Ícone Banco de Dados SQL" width="50" height="50" title= "SQL">
-   <img src= "html-5.png"  alt="Ícone html" width="50" height="50" title = "HTML">
-   <img src= "css-3.png"  alt="Ícone css" width="50" height="50" title ="CSS">
-    <img src= "icons8-logo-java-coffee-cup-48.png"  alt="Ícone java" width="50" height="50" title ="JAVA">
+   
+   <img src= "icons8-logo-java-coffee-cup-48.png"  alt="Ícone java" width="50" height="50" title ="JAVA">
    
 </div>
   
