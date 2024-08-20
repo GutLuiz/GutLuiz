@@ -18,6 +18,7 @@ Atualmente, estou cursando Ciência da Computação para aprimorar meu conhecime
 
 <div>
    <img src="post.webp"  alt="Ícone postgres" width="50" height="50" title= "POSTGRESQL">
+   <img src="csharpe.webp" alt="Ícone c#" width="50" height="50" title= "C#">
    <img src= "servidor-sql (1).png"  alt="Ícone Banco de Dados SQL" width="50" height="50" title= "SQL">
    <img src= "icons8-logo-java-coffee-cup-48.png"  alt="Ícone java" width="50" height="50" title ="JAVA">
    
