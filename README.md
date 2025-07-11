@@ -18,6 +18,7 @@ Atualmente, estou cursando Ciência da Computação para aprimorar meu conhecime
 
 <div>
    <img src="post.webp"  alt="Ícone postgres" width="50" height="50" title= "POSTGRESQL">
+    <img src="react-1.svg"  alt="Ícone react" width="50" height="50" title= "React">
 </div>
   
 
