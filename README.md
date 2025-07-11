@@ -3,15 +3,14 @@ OLA! 👋 Meu nome é Gustavo
 
 Desenvolvedor de Software
 -----------------------------
-Desde os meus 17 anos, tenho me dedicado aos estudos e agora estou determinado a me especializar na área de back-end.
+Desde os meus 20 anos, tenho me dedicado aos estudos e agora estou determinado a me especializar na área de Front-end.
 
 Atualmente, estou cursando Ciência da Computação para aprimorar meu conhecimento e habilidades na área de tecnologia.
 
 * 🌍  Moro no Pará, Brasil 
 * ✉️  Você pode me contatar [Gustavolino.d3v@gmail.com](mailto:Gustavolino.d3v@gmail.com)
-* 🚀  Estou em busca de conhecimentos na área de back-end para aprimorar minhas habilidades e contribuir de forma significativa no desenvolvimento de sistemas e aplicações web.
-* 🧠  Atualmente, estou dedicando meu tempo aos estudos de React!
-* 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
+* 🚀  Estou estagiando na área de Front-end na Logicom Tecnologia!
+* 🧠  Atualmente, estou dedicando meu tempo aos estudos de React web e native!
 * ⚡  Amo esportes e meu preferido é Futebol!
 
 ### Habilidades:
