@@ -3,7 +3,7 @@ OLA! 👋 Meu nome é Gustavo
 
 Desenvolvedor de Software
 -----------------------------
-Desde os meus 21 anos, tenho me dedicado aos estudos e agora estou determinado a me especializar na área de Back-end.
+Desde os meus 19 anos, tenho me dedicado aos estudos e agora estou determinado a me especializar na área de Back-end.
 
 Atualmente, estou cursando Ciência da Computação para aprimorar meu conhecimento e habilidades na área de tecnologia.
 
