@@ -13,13 +13,15 @@ Atualmente, estou cursando Ciência da Computação para aprimorar meu conhecime
 * 🧠  Atualmente, estou dedicando meu tempo aos estudos de .NET e React!
 * ⚡  Amo esportes e meu preferido é Futebol!
 
-### Habilidades:
 
-<div>
-    <img src=".net.png"  alt="Ícone .NET" width="50" height="50" title= ".NET">
-   <img src="post.webp"  alt="Ícone postgres" width="50" height="50" title= "POSTGRESQL">
-   <img src="react-1.svg"  alt="Ícone react" width="50" height="50" title= "React">
-</div>
+
+### Habilidades
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   
 
 
