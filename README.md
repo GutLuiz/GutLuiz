@@ -9,8 +9,7 @@ Atualmente, estou cursando Ciência da Computação para aprimorar meu conhecime
 
 * 🌍  Moro no Pará, Brasil 
 * ✉️  Você pode me contatar [luizgut2016@gmail.com](mailto:luizgut2016@gmail.com)
-* 🚀  Estou estagiando na área de full stack na Logicom Tecnologia!
-* 🧠  Atualmente, estou dedicando meu tempo aos estudos de .NET e React!
+* 🧠  Atualmente, estou dedicando meu tempo aos estudos de .NET e React, junto com testes de software!
 * ⚡  Amo esportes e meu preferido é Futebol!
 
 
