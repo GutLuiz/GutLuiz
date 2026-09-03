@@ -1,7 +1,7 @@
 OLA! 👋 Meu nome é Gustavo
 ==========================
 
-Desenvolvedor de Software
+Desenvolvedor e Tester de Software
 -----------------------------
 Desde os meus 19 anos, tenho me dedicado aos estudos e agora estou determinado a me especializar na área de Back-end.
 
